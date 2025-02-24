@@ -5,6 +5,7 @@ I developed a **Reward Program Dashboard** to analyze and optimize the effective
 ![Reward Dashboard](Rewards_Opti.PNG)
 
 
+
 #### **Project Overview:**  
 - **Data Cleaning & Preparation:**  
   - Identified and removed duplicate and inconsistent records.  
