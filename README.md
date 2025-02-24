@@ -2,7 +2,8 @@
 
 I developed a **Reward Program Dashboard** to analyze and optimize the effectiveness of a user reward system. This project aimed to enhance user engagement by providing actionable insights into mentorship activities and reward allocations.  
 
-![Reward Dashboard](reward_dashboard.png)
+![Reward Dashboard](Rewards_Opti.PNG)
+
 
 
 #### **Project Overview:**  
